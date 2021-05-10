@@ -5,8 +5,8 @@
 ## Contents
 
 - [Overview](#overview)
-- [<a name="issue"></a> Found an Issue?](#issue)
-- [<a name="feature"></a> Want a Feature?](#feature)
+- [Found an Issue?](#issue)
+- [Want a Feature?](#feature)
 - [Installing](#installing)
 - [License](#license)
 

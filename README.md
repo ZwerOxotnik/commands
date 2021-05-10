@@ -16,12 +16,12 @@ The mod adds switchable safe commands.
 
 Available commands: /kit\
 Feel free to suggest your commands.\
-Help with translations: https://crowdin.com/project/factorio-mods-localization
+Help with translations: https://crowdin.com/project/factorio-mods-localization \
 The mod on Factorio mod portal: https://mods.factorio.com/mod/commands
 
 ## <a name="issue"></a> Found an Issue?
 
-Please report any issues or a mistake in the documentation, you can help us by submitting an issue to our GitHub Repository or on [mods.factorio.com](https://mods.factorio.com/mod/teams-zo/discussion).
+Please report any issues or a mistake in the documentation, you can help us by submitting an issue to our GitHub Repository or on [mods.factorio.com](https://mods.factorio.com/mod/commands/discussion).
 
 ## <a name="feature"></a> Want a Feature?
 

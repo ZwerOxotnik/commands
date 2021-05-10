@@ -15,7 +15,7 @@
 The mod adds switchable safe commands.
 
 Available commands: /kit\
-Feel free to sugest your commands.\
+Feel free to suggest your commands.\
 Help with translations: https://crowdin.com/project/factorio-mods-localization
 
 ## <a name="issue"></a> Found an Issue?

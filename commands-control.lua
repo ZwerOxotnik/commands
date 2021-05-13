@@ -2,7 +2,7 @@ local module = {}
 
 
 local KIT_COOLDOWN = 60 * 60 * 20 -- 20 mins
-local KIT_ITEMS = {
+local KIT_ITEMS = { -- TODO: check prototypes before the loaded game
 	{"iron-plate", 300},
 	{"copper-plate", 200},
 	{"electronic-circuit", 200},

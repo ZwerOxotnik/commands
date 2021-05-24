@@ -49,6 +49,13 @@ local function kit_command(cmd)
 	player.print({"z_commands.respons.added_kit"})
 end
 
+local function kill_command(cmd)
+	local player = game.get_player(cmd.player_index)
+	if player.character then
+		player.character.die()
+	end
+end
+
 
 local function on_player_removed(event)
 	local data = global.z_commands
@@ -68,7 +75,8 @@ module.on_configuration_changed = update_global_data
 
 -- Check mod-commands.lua
 module.commands = {
-	kit = kit_command
+	kit = kit_command,
+	kill = kill_command,
 }
 
 module.events = {

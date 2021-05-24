@@ -25,6 +25,7 @@ Returns tables of commands without functions as command "settings". All paramete
 ]]--
 local SWITCHABLE_COMMANDS = {
   kit = {name = "kit", description = {"z_commands.kit"}},
+  kill = {name = "kill", description = {"z_commands.kill"}},
 }
 local CONST_COMMANDS = {}
 

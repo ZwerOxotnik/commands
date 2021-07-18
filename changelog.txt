@@ -1,4 +1,11 @@
 ﻿---------------------------------------------------------------------------------------------------
+Version: 0.5.5
+Date: 2021-07-18
+  Changes:
+    - Added German translation (thanks to @teite on crowdin.com)
+  Notes:
+    - Translations: https://crowdin.com/project/factorio-mods-localization
+---------------------------------------------------------------------------------------------------
 Version: 0.5.4
 Date: 2021-06-27
   Changes:

@@ -25,7 +25,7 @@ Returns tables of commands without functions as command "settings". All paramete
 ]]--
 local SWITCHABLE_COMMANDS = {
   kit = {name = "kit", description = {"z_commands.kit"}},
-  kill = {name = "kill", description = {"z_commands.kill"}},
+  kill = {name = "killme", description = {"z_commands.kill"}},
 }
 local CONST_COMMANDS = {}
 
@@ -143,7 +143,7 @@ module.handle_custom_commands = function(module)
     return false
   end
 
-  for _, added_commands in pairs(commands) do 
+  for _, added_commands in pairs(commands) do
     if added_commands == module.commands then
       log("Current commands was added before")
 			return
